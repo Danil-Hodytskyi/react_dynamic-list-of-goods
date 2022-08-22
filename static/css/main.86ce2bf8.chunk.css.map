@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACA,OACE,YAAa,CACd,KAGC,iBAAkB,CAClB,UAAW,CACX,iBAAkB","file":"main.86ce2bf8.chunk.css","sourcesContent":["// styles go here\niframe {\n  display: none;\n}\n\n.App {\n  margin: 100px auto;\n  width: 40vw;\n  text-align: center;\n}\n"]}
